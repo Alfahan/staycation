@@ -1,24 +1,13 @@
 import React, { Component } from 'react'
-// import { connect } from 'react-redux'
 
-import moduleNAme from 'elements/Button'
+import Header from "parts/Header";
 
 export class LandingPage extends Component {
     render() {
         return (
-            <div>
-                
-            </div>
+            <>
+                <Header {...this.props}> </Header>  
+            </>
         )
     }
 }
-
-// const mapStateToProps = (state) => ({
-    
-// })
-
-// const mapDispatchToProps = {
-    
-// }
-
-// export default connect(mapStateToProps, mapDispatchToProps)(LandingPage)
