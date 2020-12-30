@@ -1,3 +1,28 @@
+# StayCation 
+
+File Figma : https://www.figma.com/file/wjjFALK2c1kY65qkNMbdJy/Staycation?node-id=52%3A126
+
+Home Page :
+<img width="1440" alt="Home Page" src="https://user-images.githubusercontent.com/49190810/103335298-283cd000-4aa7-11eb-83d5-936c38970d44.png">
+
+Home Page Scroll :
+<img width="1440" alt="Home Page Scroll" src="https://user-images.githubusercontent.com/49190810/103335305-2c68ed80-4aa7-11eb-8f06-7f2642c63996.png">
+
+Details :
+<img width="1440" alt="Details" src="https://user-images.githubusercontent.com/49190810/103335311-2ecb4780-4aa7-11eb-879d-f00b3ee0056b.png">
+
+Booking Page :
+<img width="1440" alt="Booking Page 1 0" src="https://user-images.githubusercontent.com/49190810/103335320-312da180-4aa7-11eb-9670-5bc59b928675.png">
+
+<img width="1440" alt="Booking Page 1 1" src="https://user-images.githubusercontent.com/49190810/103335328-338ffb80-4aa7-11eb-8403-8f2cb073ce85.png">
+
+<img width="1440" alt="Booking Page 2 0" src="https://user-images.githubusercontent.com/49190810/103335332-3559bf00-4aa7-11eb-83ff-89646276cf5e.png">
+
+<img width="1440" alt="Booking Page 2 1" src="https://user-images.githubusercontent.com/49190810/103335338-37238280-4aa7-11eb-9200-1c17cbf67885.png">
+
+<img width="1440" alt="Booking Page 3" src="https://user-images.githubusercontent.com/49190810/103335346-3a1e7300-4aa7-11eb-858e-6f7c42dc9c3d.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
